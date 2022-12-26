@@ -1,7 +1,7 @@
 import { useRef } from "react";
 
-const OFFSET_X = 610; // 645
-const OFFSET_Y = 930; // 270
+const OFFSET_X = 613; // 645
+const OFFSET_Y = 902; // 270
 
 const getPieceImage = (piece: string): string => {
   const pieces: any = {
